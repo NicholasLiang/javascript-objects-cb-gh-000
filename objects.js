@@ -1,4 +1,4 @@
-
+var playlist = {artist:'title'}
 
 // describe('objects', () => {
 //   const babelResult = babel.transformFileSync(
