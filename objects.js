@@ -1,5 +1,7 @@
 var playlist = {artist:'title'};
-var updatePlaylist(playlist, artistName, songTitle) = 
+var updatePlaylist=(playlist, artistName, songTitle) => {
+  
+}
 
 // describe('objects', () => {
 //   const babelResult = babel.transformFileSync(
