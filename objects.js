@@ -1,6 +1,6 @@
 var playlist = {artist:'title'};
 var updatePlaylist=(playlist, artistName, songTitle) => {
-  playlist[]
+  playlist[artistName] = songTitle;
 }
 
 // describe('objects', () => {
